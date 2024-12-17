@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\cader\source\repos\Challenge4.1\Challenge4.1\Source.cpp(107,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cader\source\repos\Challenge4.1\Challenge4.1\Source.cpp(123,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Challenge4.1.vcxproj -> C:\Users\cader\source\repos\Challenge4.1\x64\Debug\Challenge4.1.exe
